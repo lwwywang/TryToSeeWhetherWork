@@ -1,0 +1,4 @@
+{
+  "extends": "tsconfig/vite-config.json",
+  "include": ["vite.config.ts", "*.cjs", ".eslintrc.cjs"]
+}
